@@ -3,10 +3,10 @@
 let parola1 = prompt('inserisci parola')
 let parola2 = prompt('inserisci parola')
 
-for (let i = 0; i < parola2.length; i++) {
+for (let i = 0; i < parola1.length; i++) {
 }
 
-for (let d = 0; j < parola2.length; j++) {
+for (let d = 0; d < parola2.length; d++) {
 }
 
 if(i>d){
