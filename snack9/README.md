@@ -2,7 +2,7 @@ Calcola la somma e la media dei primi 10 numeri.
 
 per calcolare la somma dei primi 10 numeri creo la variabile:
 
-const somma = 0
+let somma = 0 
 
 creo un ciclo con for per iniziare la somma dei primi 10 numeri
 
