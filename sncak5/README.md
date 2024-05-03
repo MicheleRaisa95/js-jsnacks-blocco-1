@@ -13,7 +13,7 @@ const maxNumber = 6
 
 creiamo il cicolo con for 
 
-for (let i = 1; i <= count; i++) {
+for (let i = 1; i <= maxNumber; i++) {
     creo il prompt per far inserire i numeri all'utente
     const currentNumber = Number(
         prompt(`${i} di ${maxNumber} - Inserisci un numero`)
